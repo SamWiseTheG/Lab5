@@ -1,15 +1,16 @@
-//
-//  main.c
-//  Lab5_Client
-//
-//  Created by Sam Goldstein on 3/7/18.
-//  Copyright © 2018 Sam Goldstein. All rights reserved.
-//
+//Samuel Goldstein 55978173
+//Taiki Tanaka 89214738
+//Lab 5_client
+//ICS 53 Winter 2018
 
 #include <stdio.h>
+#include <string.h>
+#include <stdlib.h>
+#include <sys/socket.h>
+#include <netinet/in.h>
 
-int main(int argc, const char * argv[]) {
-	// insert code here...
-	printf("Hello, World!\n");
+int main(int argc, const char * argv[])
+{
+	
 	return 0;
 }
